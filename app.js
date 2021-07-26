@@ -28,7 +28,7 @@ const cretaeCard=(files)=>{
         description.appendChild(name)
 
         const repository=document.createElement('p')
-        repository.innerHTML=`<p>リポジトリURL：<a href=${file.url}>${file.url}</a></p>`
+        repository.innerHTML=`<p>リポジトリURL：<a href=${file.url} target="_blank" rel="noreferrer noopener">${file.url}</a></p>`
         description.appendChild(repository)
 
         const technology=document.createElement('p')
