@@ -58,6 +58,26 @@
         ]
     },
     {
+        "name": "画面収録",
+        "img":"./img/画面収録.png",
+        "url": "https://github.com/matsudasan/ScreenRecording",
+        "technology": [
+            "Javascript",
+            "HTML",
+            "CSS"
+        ]
+    },
+    {
+        "name": "GIF作成",
+        "img":"./img/GIF作成.png",
+        "url": "https://github.com/matsudasan/CreateGIF",
+        "technology": [
+            "Javascript",
+            "HTML",
+            "CSS"
+        ]
+    },
+    {
         "name": "15パズルゲーム",
         "img":"./img/15パズルゲーム.png",
         "url": "https://github.com/matsudasan/15Puzzle-Game",
