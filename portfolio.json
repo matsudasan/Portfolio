@@ -11,15 +11,6 @@
         ]
     },
     {
-        "name": "HTMLエディター",
-        "img":"./img/HTMLエディター.png",
-        "url": "https://github.com/matsudasan/HTMLEditor",
-        "technology": [
-            "React.js",
-            "Recoil"
-        ]
-    },
-    {
         "name": "フォルダツリー作成アプリ",
         "img":"./img/フォルダツリー作成アプリ.png",
         "url": "https://github.com/matsudasan/Folder-Tree",
